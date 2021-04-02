@@ -1,0 +1,39 @@
+C:\Users\ena\Documents\UKM\Tahun 2\SEM 1\Advanced Database\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\bin\Debug\prj_facultyrecords_a168219.exe.config
+C:\Users\ena\Documents\UKM\Tahun 2\SEM 1\Advanced Database\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\bin\Debug\prj_facultyrecords_a168219.exe
+C:\Users\ena\Documents\UKM\Tahun 2\SEM 1\Advanced Database\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\bin\Debug\prj_facultyrecords_a168219.pdb
+C:\Users\ena\Documents\UKM\Tahun 2\SEM 1\Advanced Database\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\bin\Debug\prj_facultyrecords_a168219.xml
+C:\Users\ena\Documents\UKM\Tahun 2\SEM 1\Advanced Database\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.vbprojAssemblyReference.cache
+C:\Users\ena\Documents\UKM\Tahun 2\SEM 1\Advanced Database\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.frm_splashscreen_A168219.resources
+C:\Users\ena\Documents\UKM\Tahun 2\SEM 1\Advanced Database\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.Resources.resources
+C:\Users\ena\Documents\UKM\Tahun 2\SEM 1\Advanced Database\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.vbproj.GenerateResource.cache
+C:\Users\ena\Documents\UKM\Tahun 2\SEM 1\Advanced Database\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.vbproj.CoreCompileInputs.cache
+C:\Users\ena\Documents\UKM\Tahun 2\SEM 1\Advanced Database\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.exe
+C:\Users\ena\Documents\UKM\Tahun 2\SEM 1\Advanced Database\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.xml
+C:\Users\ena\Documents\UKM\Tahun 2\SEM 1\Advanced Database\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.pdb
+C:\Users\ena\Documents\UKM\Tahun 2\SEM 1\Advanced Database\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.frm_mainmenu_A168219.resources
+C:\Users\ena\Documents\UKM\Tahun 2\SEM 1\Advanced Database\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.frm_studentlist_A168219.resources
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\bin\Debug\prj_facultyrecords_a168219.exe.config
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\bin\Debug\prj_facultyrecords_a168219.exe
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\bin\Debug\prj_facultyrecords_a168219.pdb
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\bin\Debug\prj_facultyrecords_a168219.xml
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.frm_coursesbydept_A168219.resources
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.frm_insertcourses_A168219.resources
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.frm_login_A168219.resources
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.frm_mainmenu_A168219.resources
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.frm_searchcourses_A168219.resources
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.frm_splashscreen_A168219.resources
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.frm_studentdetails_A168219.resources
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.frm_studentlist.resources
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.frm_department.resources
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.frm_registration.resources
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.Resources.resources
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.vbproj.GenerateResource.cache
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.vbproj.CoreCompileInputs.cache
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.exe
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.xml
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.pdb
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.frm_insertstudent_A168219.resources
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.vbprojAssemblyReference.cache
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.frm_updatecourses_A168219.resources
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.frm_editstudent_A168219.resources
+C:\Users\ena\Desktop\A168219_DB\prj_facultyrecords_a168219\prj_facultyrecords_a168219\obj\Debug\prj_facultyrecords_a168219.frm_courseregistration_A168219.resources

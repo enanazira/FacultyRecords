@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prj_facultyrecords_a168219", "prj_facultyrecords_a168219\prj_facultyrecords_a168219.vbproj", "{2265839A-3E8A-4670-AEDE-18F680D68D02}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_Faculty_Records", "Setup_Faculty_Records\Setup_Faculty_Records.vdproj", "{2BC93745-970C-491C-B8A8-65DF03362F4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2265839A-3E8A-4670-AEDE-18F680D68D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2265839A-3E8A-4670-AEDE-18F680D68D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2265839A-3E8A-4670-AEDE-18F680D68D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2265839A-3E8A-4670-AEDE-18F680D68D02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BC93745-970C-491C-B8A8-65DF03362F4C}.Debug|Any CPU.ActiveCfg = Debug
+		{2BC93745-970C-491C-B8A8-65DF03362F4C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2879855-94B0-4AA6-80E4-C8406C018C1B}
+	EndGlobalSection
+EndGlobal
